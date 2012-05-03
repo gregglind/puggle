@@ -11,7 +11,9 @@ Features
 Screenshots
 --------------
 
-<a href="puggle_fullscreen.png"><img title="puggle screenshot in fullscreen mode" src="puggle_fullscreen.png" /></a>
+<a href="https://github.com/gregglind/puggle/raw/master/puggle_fullscreen.png">
+<img title="puggle screenshot in fullscreen mode" src="https://github.com/gregglind/puggle/raw/master/puggle_fullscreen.png" />
+</a>
 
 Other ideas
 -------------
