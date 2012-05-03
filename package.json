@@ -1,0 +1,9 @@
+{
+    "name": "puggle",
+    "license": "MPL 2.0",
+    "author": "Gregg Lind <gregg.lind@mozilla.com",
+    "version": "0.1",
+    "fullName": "puggle",
+    "id": "puggle@ur.mozilla.com",
+    "description": "Simplified, Gated Firefox UI, For Kids."
+}
